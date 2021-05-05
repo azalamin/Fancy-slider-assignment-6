@@ -10,7 +10,7 @@
   transition: 0.5s;
 }
 #img-frame:hover #singleImg{
-  transform: scale(1.2);
+  transform: scale(0.9);
 }
 .gallery-header {
   display: none;
